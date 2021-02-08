@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\bin\Debug\primjenaWindowsKontrola.exe.config
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\bin\Debug\primjenaWindowsKontrola.exe
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\bin\Debug\primjenaWindowsKontrola.pdb
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\obj\Debug\primjenaWindowsKontrola.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\obj\Debug\primjenaWindowsKontrola.Form1.resources
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\obj\Debug\primjenaWindowsKontrola.Properties.Resources.resources
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\obj\Debug\primjenaWindowsKontrola.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\obj\Debug\primjenaWindowsKontrola.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\obj\Debug\primjenaWindowsKontrola.exe
+C:\Users\denim\source\repos\primjenaWindowsKontrola\primjenaWindowsKontrola\obj\Debug\primjenaWindowsKontrola.pdb
